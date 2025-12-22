@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Im a first-semester **Information Systems ** student at **BINUS University**. I am currently focusing on building a strong foundation in **Backend Development**
 
 Im currently working on
@@ -17,4 +17,4 @@ Im currently working on
 **E-mail** evanaviel09@gmail.com
 **Instagram** @aviel_evan
 ##
--->
+
