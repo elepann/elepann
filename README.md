@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Im a first-semester **Information Systems ** student at **BINUS University**. I am currently focusing on building a strong foundation in **Backend Development**
+Im a first-semester **Information Systems** student at **BINUS University**. I am currently focusing on building a strong foundation in **Backend Development**
 
 Im currently working on
 **BINUS Coursework** Mastering logic and algorithms (python).
